@@ -129,7 +129,4 @@
     <Folder Include="View\" />
     <Folder Include="Accessibility\" />
   </ItemGroup>
-  <ItemGroup>
-    <AndroidJavaLibrary Include="SupportLib\android-support-v4.jar" />
-  </ItemGroup>
 </Project>
